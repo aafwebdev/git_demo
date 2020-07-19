@@ -3,3 +3,9 @@ function main(){
 }
 
 main();
+
+//git status-----> git add
+//	^				|
+//	|				|
+//	|				V
+//git commit<-------git status
